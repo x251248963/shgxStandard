@@ -1,8 +1,5 @@
 # 常用命名单词
 
-### CSS
-
-常用的css命名规则：
 - 头：header
 - 内容：content/container
 - 尾：footer
@@ -39,10 +36,10 @@
 - 状态：status
 - 投票：vote
 - 合作伙伴：partner
-
-id的命名：(1)页面结构
-
 - 容器: container
+
+***
+
 - 页头：header
 - 内容：content/container
 - 页面主体：main
@@ -52,9 +49,6 @@ id的命名：(1)页面结构
 - 栏目：column
 - 页面外围控制整体布局宽度：wrapper
 - 左右中：left right center
-
-(2)导航
-
 - 导航：nav
 - 主导航：mainbav
 - 子导航：subnav
@@ -67,7 +61,7 @@ id的命名：(1)页面结构
 - 标题: title
 - 摘要: summary
 
-(3)功能
+***
 
 - 标志：logo
 - 广告：banner
