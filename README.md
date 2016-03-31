@@ -1,4 +1,4 @@
-# shgxStandard
+# shgxStandard 0.0.1
 公司前端规范
 
 [HTML规范](https://github.com/x251248963/shgxStandard/tree/master/HTML)
