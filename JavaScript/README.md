@@ -10,6 +10,7 @@
 - 强制转换主要指使用Number、String和Boolean三个构造函数，少用隐式转换. 参考：http://javascript.ruanyifeng.com/grammar/conversion.html
 
 - **二元运算符两侧必须有一个空格，一元运算符与操作对象之间不允许有空格.**
+
 	var a = !arr.length;
 	a++;
 	a = b + c;
